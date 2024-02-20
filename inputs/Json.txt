@@ -1,0 +1,2737 @@
+[
+    {
+        "Id": "e59805763e104de8abc0ee48f6c602b2",
+        "RecognitionStatus": 0,
+        "Offset": 5900000,
+        "Duration": 296400000,
+        "Channel": 0,
+        "DisplayText": "Oi, canoa, tudo bem? Bom dia canoa. A Thais, ela vai me ajudar a processar a empresa, né? Por ter feito isso comigo, negócio da da multa, né, e a gente vai pagar mesmo tudo. Aí eu queria ver com você, é esse ano tem é vistoria no Detran, porque todo ano tem né, aí eu queria saber se tem vistoria, porque nem eu nem ta, aí sabemos se tem vistoria.",
+        "NBest": [
+            {
+                "Confidence": 0.82944196,
+                "Lexical": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "ITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "MaskedITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "Display": "Oi, canoa, tudo bem? Bom dia canoa. A Thais, ela vai me ajudar a processar a empresa, né? Por ter feito isso comigo, negócio da da multa, né, e a gente vai pagar mesmo tudo. Aí eu queria ver com você, é esse ano tem é vistoria no Detran, porque todo ano tem né, aí eu queria saber se tem vistoria, porque nem eu nem ta, aí sabemos se tem vistoria.",
+                "Words": [
+                    {
+                        "Word": "oi",
+                        "Offset": 5900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 7500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 16700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 19900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 22300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 25100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 35900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 44700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "thais",
+                        "Offset": 49500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 56300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 59500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 61900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "ajudar",
+                        "Offset": 70700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "processar",
+                        "Offset": 75100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 83100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "empresa",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 90700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 97100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 101900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 103900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 107900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "comigo",
+                        "Offset": 110300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "negócio",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 119100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 121900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "multa",
+                        "Offset": 123900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 127500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 131900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 133500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 135900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pagar",
+                        "Offset": 137100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 140700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 147100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 153900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 159100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 160700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ver",
+                        "Offset": 162700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 164700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 165900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 174300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 177500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 181900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 190700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 193900000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 204700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "detran",
+                        "Offset": 207100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 221500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "todo",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 241100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 243900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 248700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 250300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 251100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 253100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 255900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 257900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 259900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 265100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 267900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 270700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 272700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ta",
+                        "Offset": 273900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 275100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sabemos",
+                        "Offset": 277100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 288700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 290700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 293100000,
+                        "Duration": 9200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8294125,
+                "Lexical": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "ITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "MaskedITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "Display": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "Words": [
+                    {
+                        "Word": "oi",
+                        "Offset": 5900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 7500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 16700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 19900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 22300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 25100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 35900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 44700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "thais",
+                        "Offset": 49500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 56300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 59500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 61900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "ajudar",
+                        "Offset": 70700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "processar",
+                        "Offset": 75100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 83100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "empresa",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 90700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 97100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 101900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 103900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 107900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "comigo",
+                        "Offset": 110300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "negócio",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 119100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 121900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "multa",
+                        "Offset": 123900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 127500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 131900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 133500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 135900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pagar",
+                        "Offset": 137100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 140700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 147100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 153900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 159100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 160700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ver",
+                        "Offset": 162700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 164700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 165900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 174300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 177500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 181900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 190700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 193900000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 204700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "detran",
+                        "Offset": 207100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 221500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "todo",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 241100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 243900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 248700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 250300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 251100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 253100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 255900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 257900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 259900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 265100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 267900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 270700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 272700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ta",
+                        "Offset": 273900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 275100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sabemos",
+                        "Offset": 277100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 288700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 290700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 293100000,
+                        "Duration": 9200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.82944196,
+                "Lexical": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "ITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "MaskedITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "Display": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "Words": [
+                    {
+                        "Word": "oi",
+                        "Offset": 5900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 7500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 16700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 19900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 22300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 25100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 35900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 44700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "thais",
+                        "Offset": 49500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 56300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 59500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 61900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "ajudar",
+                        "Offset": 70700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "processar",
+                        "Offset": 75100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 83100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "empresa",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 90700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 97100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 101900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 103900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 107900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "comigo",
+                        "Offset": 110300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "negócio",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 119100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 121900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "multa",
+                        "Offset": 123900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 127500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 131900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 133500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 135900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pagar",
+                        "Offset": 137100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 140700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 147100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 153900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 159100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 160700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ver",
+                        "Offset": 162700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 164700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 165900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 174300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 177500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 181900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 190700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 193900000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 204700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "detran",
+                        "Offset": 207100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 221500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "todo",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 241100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 243900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 248700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 250300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 251100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 253100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 255900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 257900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 259900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 265100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 267900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 270700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 272700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ta",
+                        "Offset": 273900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 275100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sabemos",
+                        "Offset": 277100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 288700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 290700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 293100000,
+                        "Duration": 9200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8294125,
+                "Lexical": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "ITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "MaskedITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "Display": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "Words": [
+                    {
+                        "Word": "oi",
+                        "Offset": 5900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 7500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 16700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 19900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 22300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 25100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 35900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 44700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "thais",
+                        "Offset": 49500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 56300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 59500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 61900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "ajudar",
+                        "Offset": 70700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "processar",
+                        "Offset": 75100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 83100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "empresa",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 90700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 97100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 101900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 103900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 107900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "comigo",
+                        "Offset": 110300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "negócio",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 119100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 121900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "multa",
+                        "Offset": 123900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 127500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 131900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 133500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 135900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pagar",
+                        "Offset": 137100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 140700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 147100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 153900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 159100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 160700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ver",
+                        "Offset": 162700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 164700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 165900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 174300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 177500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 181900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 190700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 193900000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 204700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "detran",
+                        "Offset": 207100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 221500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "todo",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 241100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 243900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 248700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 250300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 251100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 253100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 255900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 257900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 259900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 265100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 267900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 270700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 272700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ta",
+                        "Offset": 273900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 275100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sabemos",
+                        "Offset": 277100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 288700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 290700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 293100000,
+                        "Duration": 9200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.82944196,
+                "Lexical": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "ITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "MaskedITN": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "Display": "oi canoa tudo bem bom dia canoa a thais ela vai me ajudar a processar a empresa né por ter feito isso comigo negócio da da multa né e a gente vai pagar mesmo tudo aí eu queria ver com você é esse ano tem é vistoria no detran porque todo ano tem né aí eu queria saber se tem vistoria porque nem eu nem ta aí sabemos se tem vistoria",
+                "Words": [
+                    {
+                        "Word": "oi",
+                        "Offset": 5900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 7500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 16700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 19900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 22300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 25100000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "canoa",
+                        "Offset": 35900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 44700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "thais",
+                        "Offset": 49500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 56300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 59500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 61900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "ajudar",
+                        "Offset": 70700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 74700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "processar",
+                        "Offset": 75100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 83100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "empresa",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 90700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 97100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "ter",
+                        "Offset": 101900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "feito",
+                        "Offset": 103900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 107900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "comigo",
+                        "Offset": 110300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "negócio",
+                        "Offset": 115100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 119100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 121900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "multa",
+                        "Offset": 123900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 127500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 131900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 133500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 135900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pagar",
+                        "Offset": 137100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 140700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 147100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 153900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 159100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 160700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ver",
+                        "Offset": 162700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "com",
+                        "Offset": 164700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 165900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 174300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "esse",
+                        "Offset": 177500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 181900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 185100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 190700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 193900000,
+                        "Duration": 10800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 204700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "detran",
+                        "Offset": 207100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 221500000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "todo",
+                        "Offset": 236300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 239100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 241100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 243900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 248700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 250300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "queria",
+                        "Offset": 251100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "saber",
+                        "Offset": 253100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 255900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 257900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 259900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "porque",
+                        "Offset": 265100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 267900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 270700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "nem",
+                        "Offset": 272700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ta",
+                        "Offset": 273900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 275100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sabemos",
+                        "Offset": 277100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 288700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 290700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vistoria",
+                        "Offset": 293100000,
+                        "Duration": 9200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "9458a9c4a1304411b634452244050838",
+        "RecognitionStatus": 0,
+        "Offset": 309600000,
+        "Duration": 100400000,
+        "Channel": 0,
+        "DisplayText": "Porque o carro dela é novo. Aí ela falou que o dela não tem, mas o meu não é novo assim não. Mas ela acha que tem. Mas ela não, não tem certeza também.",
+        "NBest": [
+            {
+                "Confidence": 0.7512058,
+                "Lexical": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "ITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "MaskedITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "Display": "Porque o carro dela é novo. Aí ela falou que o dela não tem, mas o meu não é novo assim não. Mas ela acha que tem. Mas ela não, não tem certeza também.",
+                "Words": [
+                    {
+                        "Word": "porque",
+                        "Offset": 309600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "carro",
+                        "Offset": 314000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 316800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 319200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 324400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 326000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "falou",
+                        "Offset": 328000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 330400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 331600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 332000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 334400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 336400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 340000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 342000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 342800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 344400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 346000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 348400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "assim",
+                        "Offset": 352800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 358000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 366800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 369600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "acha",
+                        "Offset": 372000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 385600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 390800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 392800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 394000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 397200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 399200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certeza",
+                        "Offset": 400800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "também",
+                        "Offset": 406000000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7512058,
+                "Lexical": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "ITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "MaskedITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "Display": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "Words": [
+                    {
+                        "Word": "porque",
+                        "Offset": 309600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "carro",
+                        "Offset": 314000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 316800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 319200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 324400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 326000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "falou",
+                        "Offset": 328000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 330400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 331600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 332000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 334400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 336400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 340000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 342000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 342800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 344400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 346000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 348400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "assim",
+                        "Offset": 352800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 358000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 366800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 369600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "acha",
+                        "Offset": 372000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 385600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 390800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 392800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 394000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 397200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 399200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certeza",
+                        "Offset": 400800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "também",
+                        "Offset": 406000000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7512058,
+                "Lexical": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "ITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "MaskedITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "Display": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "Words": [
+                    {
+                        "Word": "porque",
+                        "Offset": 309600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "carro",
+                        "Offset": 314000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 316800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 319200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 324400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 326000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "falou",
+                        "Offset": 328000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 330400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 331600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 332000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 334400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 336400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 340000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 342000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 342800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 344400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 346000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 348400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "assim",
+                        "Offset": 352800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 358000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 366800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 369600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "acha",
+                        "Offset": 372000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 385600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 390800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 392800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 394000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 397200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 399200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certeza",
+                        "Offset": 400800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "também",
+                        "Offset": 406000000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7512059,
+                "Lexical": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "ITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "MaskedITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "Display": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "Words": [
+                    {
+                        "Word": "porque",
+                        "Offset": 309600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "carro",
+                        "Offset": 314000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 316800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 319200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 324400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 326000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "falou",
+                        "Offset": 328000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 330400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 331600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 332000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 334400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 336400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 340000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 342000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 342800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 344400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 346000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 348400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "assim",
+                        "Offset": 352800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 358000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 366800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 369600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "acha",
+                        "Offset": 372000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 385600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 390800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 392800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 394000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 397200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 399200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certeza",
+                        "Offset": 400800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "também",
+                        "Offset": 406000000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7512059,
+                "Lexical": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "ITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "MaskedITN": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "Display": "porque o carro dela é novo aí ela falou que o dela não tem mas o meu não é novo assim não mas ela acha que tem mas ela não não tem certeza também",
+                "Words": [
+                    {
+                        "Word": "porque",
+                        "Offset": 309600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 313600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "carro",
+                        "Offset": 314000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 316800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 318800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 319200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aí",
+                        "Offset": 324400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 326000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "falou",
+                        "Offset": 328000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 330400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 331600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "dela",
+                        "Offset": 332000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 334400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 336400000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 340000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 342000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 342800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 344400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 346000000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 348400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "assim",
+                        "Offset": 352800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 358000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 366800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 369600000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "acha",
+                        "Offset": 372000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 385600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 390800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ela",
+                        "Offset": 392800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 394000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 397200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 399200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certeza",
+                        "Offset": 400800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "também",
+                        "Offset": 406000000,
+                        "Duration": 4000000
+                    }
+                ]
+            }
+        ]
+    }
+]

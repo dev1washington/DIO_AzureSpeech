@@ -1,0 +1,6 @@
+Procurar IA do Azure em seguida Speech Studio
+01Optaremos pela opção da Fala em Texto
+02 Deixamos selecionado o Idioma Português
+03Selecionaremos um arquivo no computador ou captaremos o audio.
+O4 teste interpreta o áudio em português dando a devida pontuação e gera o arquivo Json
+
